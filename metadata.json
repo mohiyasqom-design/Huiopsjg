@@ -1,0 +1,5 @@
+{
+  "name": "استودیو هوش مصنوعی(تصویر)",
+  "description": "An application to generate and edit images using text prompts with Google's Gemini and Imagen models. Create new visuals from scratch or modify existing ones with simple instructions.",
+  "requestFramePermissions": []
+}
